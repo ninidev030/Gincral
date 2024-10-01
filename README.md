@@ -25,6 +25,3 @@
     </div>
   </div>
 
-<div>
-    https://github.com/ninibear030
-</div>
